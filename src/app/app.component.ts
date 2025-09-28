@@ -3,6 +3,7 @@ import { CommonModule } from '@angular/common';
 import { RouterOutlet } from '@angular/router';
 import { FooterComponent } from "./shared/footer/footer.component";
 import { HeaderComponent } from "./shared/header/header.component";
+// import { HttpClientModule } from '@angular/common/http';
 
 declare var $: any;
 declare function HOMEINIT([]): any;
